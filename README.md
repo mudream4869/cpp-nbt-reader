@@ -17,7 +17,7 @@ output the name of the root node.
 #include "nbt.h"
 
 int main() {
-    std::ifstream("hello_world.nbt");
+    std::ifstream buf("hello_world.nbt");
     auto doc = nbt::readDocument(buf);
     std::cout << doc->getName() << "\n";
 }
