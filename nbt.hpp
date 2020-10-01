@@ -1,8 +1,7 @@
 /**
     NBT Reader
-    @file nbt.h
+    @file nbt.hpp
     @author Mudream
-    @version 0.1
 */
 
 #pragma once

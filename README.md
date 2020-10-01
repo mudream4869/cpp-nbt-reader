@@ -2,7 +2,7 @@
 
 Inspired by [cpp-nbt](https://github.com/SpockBotMC/cpp-nbt).
 
-Leave only reader function and remove `_FixString`.
+Leave only reader functionality and remove `_FixString`.
 
 ## Usage
 
